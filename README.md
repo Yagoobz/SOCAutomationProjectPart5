@@ -20,4 +20,9 @@ Now, let's generate another Mimikatz instance in PowerShell and check Shuffle to
 <br />
 <img src="https://github.com/Yagoobz/SOCAutomationProjectPart5/assets/145611184/0c55a7e2-99e3-487a-969a-05ae0b425263" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 
+I configure the "Change Me" icon by setting the "Find Actions" to regex capture group, specifying the "Input Data" as the hashes execution argument. Then, I request ChatGPT to create a regex pattern to parse the SHA256 value of the hash. After completing these steps, I rerun the workflow, and as expected, it successfully parses out the SHA256 hash.
+<br />
+<br />
+<img src="https://github.com/Yagoobz/SOCAutomationProjectPart5/assets/145611184/ad045a4d-8151-4ab5-b1cb-6dafa5129bc8" height="30%" width="70%" alt="Disk Sanitization Steps"/>
+
 
