@@ -48,7 +48,7 @@ In Shuffle, I include custom text on TheHive so that alerts are easily identifia
 Returning to Shuffle, I incorporate commands into the custom text I created, then rerun the workflow. After making several custom additions, I verify the success of TheHive integration. Checking TheHive for any alerts, I confirm that we have received them. Awesome, mission accomplished!
 <br />
 <br />
-<img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yagoobz/SOCAutomationProjectPart5/assets/145611184/512ae3a9-1bff-437c-b754-aa1b87518c06" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 
 
 
