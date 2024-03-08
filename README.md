@@ -30,5 +30,11 @@ To leverage VirusTotal's API for automatic hash checking and retrieval of values
 <br />
 <img src="https://github.com/Yagoobz/SOCAutomationProjectPart5/assets/145611184/2d317483-574a-4c62-9e58-77741507b37d" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 
+To resolve the issue, I navigate to the "Apps" page in Shuffle and modify the VirusTotal app. Specifically, I change the hash report from "report" to "id" and enclose it in curl brackets. Then, I create a new VirusTotal step in my workflow, add my API Key, and make the necessary adjustments. Upon rerunning the workflow, I observe a wealth of additional information. For instance, under "last_analysis_status," it indicates "malicious 62," signifying that 62 scanners detected the file as malicious.
+<br />
+<br />
+<img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
+
+
 
 
