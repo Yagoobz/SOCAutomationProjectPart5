@@ -28,7 +28,7 @@ I configure the "Change Me" icon by setting the "Find Actions" to regex capture 
 To leverage VirusTotal's API for automatic hash checking and retrieval of values, I first copy the API Key from my VirusTotal account. Then, I add VirusTotal into my Shuffle workflow along with the API Key. Upon rerunning the workflow and checking VirusTotal, I notice the status is 404, indicating that VirusTotal was unable to return any results. This likely occurred because the VirusTotal app in Shuffle is accessing an incorrect URL.
 <br />
 <br />
-<img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yagoobz/SOCAutomationProjectPart5/assets/145611184/2d317483-574a-4c62-9e58-77741507b37d" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 
 
 
