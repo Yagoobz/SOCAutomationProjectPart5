@@ -11,3 +11,13 @@ Starting off in Shuffle, I create a new account and project to begin. Firstly, I
 <br />
 <br />
 <img src="https://github.com/Yagoobz/SOCAutomationProjectPart5/assets/145611184/ad045a4d-8151-4ab5-b1cb-6dafa5129bc8" height="30%" width="70%" alt="Disk Sanitization Steps"/>
+
+Now, let's generate another Mimikatz instance in PowerShell and check Shuffle to see if we received anything. And there it is! We have all the information generated from Wazuh. Pretty neat, right?
+<br />
+<br />
+<img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
+
+
