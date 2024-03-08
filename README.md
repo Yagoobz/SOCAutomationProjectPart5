@@ -35,7 +35,7 @@ To resolve the issue, I navigate to the "Apps" page in Shuffle and modify the Vi
 <br />
 <img src="https://github.com/Yagoobz/SOCAutomationProjectPart5/assets/145611184/3aad2638-228e-4264-806d-f1bc5ec1a277" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 
-...
+In Shuffle, I integrate TheHive into my workflow and proceed to TheHive's webpage. There, I create two new users: one "normal" user and one "service" user. I assign the "normal" user an "analyst" profile and generate a password. For the "service" user, although the principle of least privilege suggests setting it to "read-only," for testing purposes, I also assign it an "analyst" profile. After generating an API key for the "service" user, I log out of the webpage and log in again using the credentials of the "normal" user. Returning to Shuffle, I add the API Key and URL to TheHive into my workflow.
 <br />
 <br />
 <img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
