@@ -5,6 +5,8 @@
 <br />
 - Send details to TheHive
 <br />
+- Send to SOC Analyst via Email 
+<br />
 <br />
 
 Starting off in Shuffle, I create a new account and project to begin. Firstly, I grab the "webhook" workflow starter and name it "Wazuh-Alerts," then copy the URI provided. This allows me to add the URI to the ossec configuration hosted on the Wazuh manager. In the ossec file, I create a new "integration" command and insert the URI from Shuffle, then restart the Wazuh manager service.
