@@ -55,7 +55,7 @@ Returning to Shuffle, I incorporate commands into the custom text I created, the
 I set up the "Email" app in my workflow in Shuffle to send event information to the SOC analyst (myself) by providing my email address, a subject, and body for the email content. Despite the straightforward setup, it took me several days to troubleshoot why it wasn't working. After extensive research, I realized that the issue lies with Shuffle itself, not my configuration. Unfortunately, there's nothing I can do to fix this problem at the moment. However, I'm hopeful that it will be resolved soon. In the meantime, I'll assume that the SOC analyst will receive the email once the issue is resolved.
 <br />
 <br />
-<img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yagoobz/SOCAutomationProjectPart5/assets/145611184/20a23d45-16d7-4ce7-94a6-04b31c321289" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 
 
 
