@@ -45,7 +45,7 @@ In Shuffle, I integrate TheHive into my workflow and proceed to TheHive's webpag
 In Shuffle, I include custom text on TheHive so that alerts are easily identifiable. To enhance security, I configure a firewall on DigitalOcean for port 9000, allowing access to the machines from any source via IPv4. This helps ensure that only authorized traffic can reach the machines on port 9000.
 <br />
 <br />
-<img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yagoobz/SOCAutomationProjectPart5/assets/145611184/d543062b-bdb9-4c78-8e84-8e226291b554" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 
 Returning to Shuffle, I incorporate commands into the custom text I created, then rerun the workflow. After making several custom additions, I verify the success of TheHive integration. Checking TheHive for any alerts, I confirm that we have received them. Awesome, mission accomplished!
 <br />
