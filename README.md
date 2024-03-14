@@ -56,10 +56,6 @@ I set up the "Email" app in my workflow in Shuffle to send event information to 
 <br />
 <br />
 <img src="https://github.com/Yagoobz/SOCAutomationProjectPart5/assets/145611184/20a23d45-16d7-4ce7-94a6-04b31c321289" height="30%" width="70%" alt="Disk Sanitization Steps"/>
-
-
-
-
-
-
-
+<br />
+<br />
+And just like that, I've completed everything! It's a bit disheartening that the final step to bring everything together isn't cooperating, and unfortunately, it's out of my control. Nevertheless, this project has been incredibly enjoyable!
